@@ -23,6 +23,7 @@ To get a Git project into your build: Step 1. Add the JitPack repository to your
 ==> FOR SIMPLE ADS
 
    implementation 'com.github.newtech:ads-sdk:1.0.0'  
+   
 ===== color guide ======
 
         <------------   set color in theme --------------->
