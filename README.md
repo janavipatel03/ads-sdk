@@ -19,6 +19,7 @@ To get a Git project into your build: Step 1. Add the JitPack repository to your
 ==> FOR PRELOADED ADS
 
    implementation 'com.github.newtech:ads-sdk:1.0.0'
+
 ==> FOR SIMPLE ADS
 
    implementation 'com.github.newtech:ads-sdk:1.0.0'  
