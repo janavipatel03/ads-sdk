@@ -29,7 +29,7 @@ To get a Git project into your build: Step 1. Add the JitPack repository to your
         <------------   set color in theme --------------->
 
                  Progressbar color ------> colorPrimary
-                 Button and Space -------> buttonColor
+                 Button and Space -------> colorButtonNormal
 3). use below code in activity
 
           Button showAds;
